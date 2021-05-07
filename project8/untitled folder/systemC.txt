@@ -1,3 +1,0 @@
-base X
-rule X F[+XL][-XL]FXL
-rule F FF
