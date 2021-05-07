@@ -1,3 +1,0 @@
-base X
-rule X <F+[[X]-X]-L>F[-FX]+X
-rule F FF

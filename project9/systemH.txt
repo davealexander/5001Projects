@@ -1,2 +1,0 @@
-base F
-rule F F[+F]F[-F]F F[+F]F F[-F]F

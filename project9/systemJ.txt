@@ -1,3 +1,0 @@
-base X
-rule X F-[[X]+X]+F[+FX]-Xl F-[+X]+F[+FX]-Xl F-[[X]][+FX]-Xl F[-X]X F[+X]X
-rule F FF F[+X]F F[-X]F F
