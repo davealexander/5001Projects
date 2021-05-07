@@ -1,0 +1,3 @@
+base X
+rule X F-[[X]+X]+F[+FX]-Xl
+rule F FF

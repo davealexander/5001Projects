@@ -1,0 +1,3 @@
+base X
+rule X g<F-[[XL]+X]>y+F[<+XL]-X
+rule F FF

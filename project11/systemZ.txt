@@ -1,0 +1,4 @@
+base w(4)!A
+rule A F[&F!A<a(0.5)L>](120)/[&F!A<a(0.5)L>](120)/[&F!A<a(0.5)L>]
+rule F (1)F(100)/
+rule (x)F (x*1.8)F

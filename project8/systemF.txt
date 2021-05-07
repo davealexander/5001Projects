@@ -1,0 +1,5 @@
+base P
+rule P I+[P+O]--[--FF]I[++FF]-[PO]++PO
+rule I FS[+FF][-FF]FS
+rule S SFS
+rule O [++F][+F][F][-F][--F]

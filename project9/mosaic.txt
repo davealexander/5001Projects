@@ -1,0 +1,9 @@
+base X 
+rule X g<FF+[[XL]+X]>y<F-[>b<[XL]-X]0>b<O
+rule O C
+rule C D+D+D+D+D+D+D+D+D+D+D+D+D+D+D+D
+rule D FFFF
+
+
+
+

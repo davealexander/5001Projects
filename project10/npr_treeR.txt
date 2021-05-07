@@ -1,0 +1,7 @@
+base X 
+rule X ?<FF-[[XL]-X]>?<F+[>b<[XL]+X]0>?<O
+
+
+
+
+
